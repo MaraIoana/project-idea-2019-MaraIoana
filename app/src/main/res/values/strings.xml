@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">mApp</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="addButton">ADD TO WATCHLIST</string>
+    <string name="details">Info</string>
+    <string name="myList">My Movies</string>
+    <string name="deleteButton">DELETE FROM WATCHLIST</string>
+    <string name="update">UPDATE</string>
+    <string name="addMovie">ADD A NEW MOVIE</string>
+    <string name="title">TITLE</string>
+    <string name="year">YEAR</string>
+    <string name="rating">RATING</string>
+    <string name="description">DESCRIPTION</string>
+</resources>
